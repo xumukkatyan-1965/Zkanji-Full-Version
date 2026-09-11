@@ -1,0 +1,1 @@
+# Zkanji-Full-Version
