@@ -235,4 +235,4 @@ This repository serves as the official landing page for ZKanji. The software is 
 **Get the most recent version of ZKanji today!**
 
 ---
-**Last updated:** 2026-10-15 20:40:41 UTC
+**Last updated:** 2026-10-15 23:24:17 UTC
